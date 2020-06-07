@@ -45,6 +45,10 @@
               "target": "Package",
               "version": "[6.4.4, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
             "Microsoft.AspNetCore.Mvc.Formatters.Json": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -70,6 +74,14 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.1.4, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.6.0, )"
             }
           },
           "imports": [
