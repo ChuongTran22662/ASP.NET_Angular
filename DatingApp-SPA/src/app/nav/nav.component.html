@@ -28,7 +28,7 @@
       <a class="nav-link" href="#">Messages</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" (click)="logout()">Logout</a>
+      <a class="nav-link" (click)="logout()" href="#">Logout</a>
     </li>
   </ul>
 
@@ -68,7 +68,7 @@
     />
     <button
       [disabled]="!loginForm.valid"
-      class="btn btn-outline-success my-2 my-sm-0"
+      class="btn btn-info my-2 my-sm-0"
       type="submit"
     >
       Login

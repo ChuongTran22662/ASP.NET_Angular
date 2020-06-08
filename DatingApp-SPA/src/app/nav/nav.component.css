@@ -1,0 +1,9 @@
+.nav-link{
+  font-weight: 600;
+  color: #fff;
+  white-space: nowrap;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+}
