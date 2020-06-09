@@ -6779,23 +6779,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\asus\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\SonVH\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\App\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\SonVH\\Desktop\\ASP.NET_Angular-master\\ASP.NET_Angular-master\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "C:\\Users\\asus\\Desktop\\App\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj",
-      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\App\\DatingApp.API\\DatingApp.API\\obj\\",
+      "projectPath": "C:\\Users\\SonVH\\Desktop\\ASP.NET_Angular-master\\ASP.NET_Angular-master\\DatingApp.API\\DatingApp.API\\DatingApp.API.csproj",
+      "packagesPath": "C:\\Users\\SonVH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SonVH\\Desktop\\ASP.NET_Angular-master\\ASP.NET_Angular-master\\DatingApp.API\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SonVH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
